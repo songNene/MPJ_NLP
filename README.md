@@ -5,11 +5,11 @@
 
 ---
 ## 📂 디렉토리 구조
-0613_딥러닝 단어사전 만들기/
-├── korean-english-park.train.tar.gz
-├── korean-english-park.train.ko
-├── korean-english-park.train.en
-└── 멋진 단어사전 만들기.ipynb
+0613_딥러닝 단어사전 만들기/    
+├── korean-english-park.train.tar.gz    
+├── korean-english-park.train.ko    
+├── korean-english-park.train.en    
+└── 멋진 단어사전 만들기.ipynb    
 
 ## 주요 학습 내용
 
